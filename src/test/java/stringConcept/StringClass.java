@@ -22,7 +22,7 @@ public class StringClass {
 		
 		//endwith - return boolean i.e true or false
 		boolean status2 = str.endsWith("Selenium");
-		System.out.println(status1);
+		System.out.println(status2);
 		
 		//equals and equalignorecase return boolean
 		String actual = "Welcome to Selenium";
